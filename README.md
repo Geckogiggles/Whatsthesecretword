@@ -46,10 +46,12 @@ The following image shows the web application's appearance and functionality:
 
 
 [## Live Deployed Link](https://geckogiggles.github.io/Whatsthesecretword/)
+
+
 https://geckogiggles.github.io/Whatsthesecretword/
 
 ## Notes
 
-This project was created exactly as required from the edX bootcamp that provided the starter code, however this project will be modified to my aesthetic after the grading is finished. Coming soon: clipboard copy functionality; cosmetic changes.
+This project was created almost exactly as given from the edX bootcamp that provided the starter code, however this project will be modified to my aesthetic after the grading is finished. things that were modified include the button color, text, and font-weight. The "generate password" button text was changed to "g e n e r a t e". Coming soon: clipboard copy functionality; cosmetic changes.
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
