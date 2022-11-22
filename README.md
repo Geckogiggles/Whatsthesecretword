@@ -42,11 +42,14 @@ The following image shows the web application's appearance and functionality:
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
 ## Screenshots
+[Example of generated pasword](Assets/Screenshot1.png)
 
 
-## Live Deployed Link
+[## Live Deployed Link](https://geckogiggles.github.io/Whatsthesecretword/)
+https://geckogiggles.github.io/Whatsthesecretword/
 
+## Notes
 
-
+This project was created exactly as required from the edX bootcamp that provided the starter code, however this project will be modified to my aesthetic after the grading is finished. Coming soon: clipboard copy functionality; cosmetic changes.
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
