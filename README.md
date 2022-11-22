@@ -46,6 +46,8 @@ The following image shows the web application's appearance and functionality:
 
 
 [## Live Deployed Link](https://geckogiggles.github.io/Whatsthesecretword/)
+
+
 https://geckogiggles.github.io/Whatsthesecretword/
 
 ## Notes
