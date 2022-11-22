@@ -45,8 +45,7 @@ The following image shows the web application's appearance and functionality:
 [Example of generated pasword](Assets/Screenshot1.png)
 
 
-[## Live Deployed Link](https://geckogiggles.github.io/Whatsthesecretword/)
-
+## Live Deployed Link
 
 https://geckogiggles.github.io/Whatsthesecretword/
 
