@@ -13,8 +13,9 @@ body,
 }
 
 body {
-  font-family: sans-serif;
+  font-family: Impact,'Arial Narrow Bold', sans-serif;
   background-color: #f9fbfd;
+  text-align: center;
 }
 
 .wrapper {
@@ -29,7 +30,11 @@ header {
   padding-top: 0px;
   color: hsl(206, 17%, 28%);
 }
-
+h1,
+h2{
+  font-weight: lighter;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -74,13 +79,14 @@ header {
 
 .btn {
   border: none;
-  background-color: hsl(360, 91%, 36%);
+  background-color: rgb(8, 111, 175);
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
   color: hsl(0, 0%, 100%);
   display: inline-block;
   font-size: 22px;
+  font-family:'Impact',  sans-serif;
   line-height: 22px;
   margin: 16px 16px 16px 20px;
   padding: 14px 34px;
